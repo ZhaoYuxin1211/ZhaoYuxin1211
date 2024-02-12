@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm Yuxin Zhao</h1>
-<h3 align="center">A backend/fullstact developer | MSc in Computer Science | Graduating in June 2024 | Actively seeking opportunities</h3>
+<h3 align="center">A backend/full stack developer | MSc in Computer Science | Graduating in June 2024 | Actively seeking opportunities</h3>
 
 - 🔭 I’m currently looking for a job in **Dublin, Ireland / Tokyo, Japan**
 
